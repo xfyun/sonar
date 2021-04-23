@@ -20,7 +20,7 @@
 package sonar
 
 import (
-	"git.apache.org/thrift.git/lib/go/thrift"
+	"git.iflytek.com/sqjian/thrift"
 	"git.iflytek.com/sqjian/flume"
 	"sync"
 	"net"
