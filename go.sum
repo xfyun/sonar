@@ -1,0 +1,6 @@
+git.iflytek.com/AIaaS/thrift v0.0.0-20210423095925-0ef93ee2c654 h1:LpQEA8ggBisjzkVqk5cuV5zPJKInjioD1ld0rTZ1cnI=
+git.iflytek.com/AIaaS/thrift v0.0.0-20210423095925-0ef93ee2c654/go.mod h1:n4O9w2r6noN8TifGAVedDoJ5gt0H1XGLZ9mIfI2gdbw=
+github.com/xfyun/flume v0.0.0-20220331055239-c60bd1aaf719 h1:/4AV2l52ZvLbzrreyEbtrFL0rYp3VE5n5I0Riw0jHuQ=
+github.com/xfyun/flume v0.0.0-20220331055239-c60bd1aaf719/go.mod h1:96+9mDABKj0r+hPOvk5m83O/wiKyM+nLsKhpTxcTXPI=
+github.com/xfyun/thrift v0.0.0-20210423095925-0ef93ee2c654 h1:G9ayOtmmgVauOjlwl2OH8nGe5+fo898dnURjZGMbRB8=
+github.com/xfyun/thrift v0.0.0-20210423095925-0ef93ee2c654/go.mod h1:UgHj9o0otGH+HV+SwUAGVMFaAIsiuG1RA8euo/b7RJY=

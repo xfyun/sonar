@@ -20,8 +20,8 @@
 package sonar
 
 import (
-	"git.iflytek.com/AIaaS/thrift"
-	"git.iflytek.com/AIaaS/flume"
+	"github.com/xfyun/thrift"
+	"github.com/xfyun/flume"
 	"sync"
 	"net"
 	"errors"
